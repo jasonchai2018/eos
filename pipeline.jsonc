@@ -1,4 +1,11 @@
 {
+    "eosio": {
+        "environment": {
+            "HIGH_SIERRA_ENABLED": true,
+            "FEDORA27_ENABLED": true,
+            "AMAZON1_ENABLED": true
+        }
+    },
     "eosio-lrt":
     {
         "pipeline-branch": "legacy-os"
