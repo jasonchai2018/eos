@@ -4,7 +4,8 @@
             "ENABLE_HIGH_SIERRA": true,
             "ENABLE_FEDORA27": true,
             "ENABLE_AMAZON1": true,
-            "SKIP_AMAZON2": true
+            "SKIP_AMAZON2": true,
+            "IMAGE_TAG_VERSION": "v1"
         }
     },
     "eosio-lrt":
